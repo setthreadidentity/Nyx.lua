@@ -2,7 +2,7 @@
 local script_details = {
     debug = false, 
     version = "",
-    url = ""
+    url = "https://raw.githubusercontent.com/setthreadidentity/Nyx.lua/refs/heads/main/Imports.lua"
 }
 
 local function import(file)
